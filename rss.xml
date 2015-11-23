@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Cinematographer - David C. Smith, A Loose Collection of Thoughts and Experiences]]></title>
-        <description><![CDATA[Cinematographer - David C. Smith, A Loose Collection of Thoughts and Experiences]]></description>
+        <title><![CDATA[David C. Smith - Cinematographer, A Loose Collection of Thoughts and Experiences]]></title>
+        <description><![CDATA[David C. Smith - Cinematographer, A Loose Collection of Thoughts and Experiences]]></description>
         <link>https://thegrid.ai/davidsmith/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 00:32:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2015 00:52:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/davidsmith/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aroha Valley from Above]]></title>
+            <description><![CDATA[<article><h1>Aroha Valley from Above</h1><p>A taste of the Aroha Valley.  Shot last year on the Inspire One.</p><img src="https://i.ytimg.com/vi/Y9htB-Y3pp4/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Y9htB-Y3pp4</link>
+            <guid isPermaLink="false">dcffaf29-1ed0-4be1-a025-24e2dcfcbdf6</guid>
+            <pubDate>Mon, 23 Nov 2015 00:51:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello World]]></title>
             <description><![CDATA[<article><h1>Hello World</h1><p>As a Cinematographer, Inventor, Entrepreneur, and Technology Nut I'm excited to embrace AI as a tool for design.  The open ended nature of TheGrid leaves me wondering where this space will lead.  I'm ready to jump down the Rabbit Hole, I just have no idea where it will end up.  For now, this will be my repository for my diverse interests and experiences.  Over time, who knows it may even get interesting.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5841a1b6-a720-4dc0-a240-3ae32d81457a.jpg"></article>]]></description>
