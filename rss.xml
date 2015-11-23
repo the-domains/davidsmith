@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Cinematographer - David C. Smith, A Loose Collection of Thoughts and Experiences]]></title>
+        <description><![CDATA[Cinematographer - David C. Smith, A Loose Collection of Thoughts and Experiences]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 Nov 2015 00:13:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <description><![CDATA[<article><h1>Hello World</h1><p>Let the AI Design Revolution Commence!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fea8ba23-0064-475a-ae9d-9c3e03b62412.jpg"></article>]]></description>
+            <link>undefinedhello-world/index.html</link>
+            <guid isPermaLink="false">cd136236-b389-401d-9eb0-8df5554ab7d3</guid>
+            <pubDate>Mon, 23 Nov 2015 00:13:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
