@@ -1,6 +1,6 @@
 name: DavidSmith
 favicon: null
-layout_spectrum: 0.49648
+layout_spectrum: 0.22527
 typography_spectrum: 0.25
 title: 'David C. Smith - Cinematographer, A Loose Collection of Thoughts and Experiences'
 cta:
@@ -22,7 +22,7 @@ color:
     - '#ffffff'
     - '#89a3a4'
     - '#d4cc9e'
-  brandStrength: 0
+  brandStrength: 0.25
   lightness: 0.0625
   saturation: 1
   rhythmicContrast: 0.5
